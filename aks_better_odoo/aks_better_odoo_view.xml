@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<openerp>
+    <data>
+
+<!--        <record model="ir.ui.view" id="project_task_work_inherit_aks_treee">
+            <field name="name">project.task.work.inherit3</field>
+            <field name="model">project.task</field>
+            <field name="inherit_id" ref="project.view_task_form2"/>
+            <field name="arch" type="xml">
+                <tree string="Task Work" editable="top" position="inside">
+                    <field name="product_id"/>
+                </tree>
+            </field>
+        </record>
+-->
+    </data>
+</openerp>
